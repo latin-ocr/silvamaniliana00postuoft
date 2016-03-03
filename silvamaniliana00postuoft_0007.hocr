@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./silvamaniliana00postuoft_0007.png"; bbox 0 0 1981 3334; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 390 1296 1356 1731">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 390 1296 1356 1731">
+     <span class='ocr_line' id='line_1_1' title="bbox 390 1296 1356 1350; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 390 1305 662 1350; x_wconf 81' lang='lat' dir='ltr'><strong>RICARDO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 715 1299 1160 1346; x_wconf 85' lang='lat' dir='ltr'><strong>CLAVERHOUSE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1211 1296 1356 1339; x_wconf 86' lang='lat' dir='ltr'>JEBB</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 558 1406 1188 1444; baseline -0.014 1"><span class='ocrx_word' id='word_1_4' title='bbox 558 1412 782 1444; x_wconf 81' lang='lat' dir='ltr'>VETERVM</span> <span class='ocrx_word' id='word_1_5' title='bbox 822 1406 1188 1442; x_wconf 78' lang='lat' dir='ltr'>ELEGANTIARVM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 515 1500 1238 1541; baseline -0.014 1"><span class='ocrx_word' id='word_1_6' title='bbox 515 1509 691 1541; x_wconf 82' lang='lat' dir='ltr'>VINDICI</span> <span class='ocrx_word' id='word_1_7' title='bbox 730 1504 1013 1538; x_wconf 80' lang='lat' dir='ltr'><strong>INTERPRETI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1050 1500 1238 1534; x_wconf 79' lang='lat' dir='ltr'><strong>AEMVLO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 554 1596 1199 1636; baseline -0.016 1"><span class='ocrx_word' id='word_1_9' title='bbox 554 1604 647 1636; x_wconf 84' lang='lat' dir='ltr'><strong>Hoc</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 687 1600 959 1635; x_wconf 76' lang='lat' dir='ltr'><strong>OPVSCVLVM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 998 1596 1199 1630; x_wconf 81' lang='lat' dir='ltr'>DEDICAT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 539 1691 1212 1731; baseline -0.015 0"><span class='ocrx_word' id='word_1_12' title='bbox 539 1697 810 1731; x_wconf 82' lang='lat' dir='ltr'>IOHANNES</span> <span class='ocrx_word' id='word_1_13' title='bbox 856 1696 892 1727; x_wconf 88' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 939 1691 1212 1726; x_wconf 81' lang='lat' dir='ltr'><strong>POSTGATE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 422 1783 1333 1830">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 422 1783 1333 1830">
+     <span class='ocr_line' id='line_1_6' title="bbox 422 1783 1333 1830; baseline -0.016 -1"><span class='ocrx_word' id='word_1_15' title='bbox 422 1795 537 1830; x_wconf 88' lang='lat' dir='ltr'>OLIM</span> <span class='ocrx_word' id='word_1_16' title='bbox 574 1792 790 1826; x_wconf 86' lang='lat' dir='ltr'>ALVMNVS</span> <span class='ocrx_word' id='word_1_17' title='bbox 830 1788 1016 1822; x_wconf 84' lang='lat' dir='ltr'>SEMPER</span> <span class='ocrx_word' id='word_1_18' title='bbox 1053 1783 1333 1818; x_wconf 80' lang='lat' dir='ltr'><strong>ADMIRATOR.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
